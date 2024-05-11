@@ -3,7 +3,7 @@
 A simple website to perform CRUD operations on Mobile Legends heroes using gRPC API and Protobuf in Node.js.
 
 ## ⚙️ Tech Stack
-- NodeJS + Typescript
+- NodeJS
 - grpc + protobuf
 - MongoDB
 
