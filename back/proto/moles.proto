@@ -1,0 +1,28 @@
+syntax = "proto3";
+
+service MoleService {
+    rpc GetAll (Empty) returns (MoleList) {}
+    rpc Get (MoleRequestId) returns (Mole) {}
+    rpc Insert (Mole) returns (Mole) {}
+    rpc Update (Mole) returns (Mole) {}
+    rpc Remove (MoleRequestId) returns (Empty) {}
+}
+
+message Empty {}
+
+message Mole {
+    string id = 1;
+    string hero = 2;
+    int32 release = 3;
+    string role = 4;
+    string lane = 5;
+    string image = 6;
+}
+
+message MoleList {
+    repeated Mole moles = 1;
+}
+
+message MoleRequestId {
+    string id = 1;
+}
