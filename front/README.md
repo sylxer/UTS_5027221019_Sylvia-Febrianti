@@ -1,4 +1,4 @@
-# Mobile Legend Hero Management System - Backend
+# Mobile Legend Hero Management System - Frontend
 
 A simple website to perform CRUD operations on Mobile Legends heroes.
 
