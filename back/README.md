@@ -9,9 +9,9 @@ A simple website to perform CRUD operations on Mobile Legends heroes using gRPC 
 
 ## 🔧 Installation
 To install and run the project locally, follow these steps:
-- Clone the repository: git clone https://github.com/sylxer/UTS_5027221019_Sylvia-Febrianti
-- Navigate to the project directory: cd UTS_5027221019_Sylvia-Febrianti/back
-- Install the dependencies: pnpm install
+- Clone the repository: ```git clone https://github.com/sylxer/UTS_5027221019_Sylvia-Febrianti```
+- Navigate to the project directory: ```cd UTS_5027221019_Sylvia-Febrianti/back```
+- Install the dependencies: ```pnpm install```
 
 ## 🏃‍♀️ Run
 - nodemon server.js
