@@ -2,7 +2,7 @@
 
 A simple website to perform CRUD operations on Mobile Legends heroes using gRPC API and Protobuf in Node.js.
 
-## ⚡ Tech Stack
+## ⚙️ Tech Stack
 - NodeJS + Typescript
 - grpc + protobuf
 - MongoDB
@@ -13,7 +13,7 @@ To install and run the project locally, follow these steps:
 - Navigate to the project directory: cd UTS_5027221019_Sylvia-Febrianti/back
 - Install the dependencies: pnpm install
 
-## Run
+## 🏃‍♀️ Run
 - nodemon server.js
   ![1.1](https://github.com/sylxer/UTS_5027221019_Sylvia-Febrianti/blob/main/SS/nodemon1.png)
 - nodemon main.js
@@ -21,7 +21,7 @@ To install and run the project locally, follow these steps:
 - nodemon client.js
   ![1.3](https://github.com/sylxer/UTS_5027221019_Sylvia-Febrianti/blob/main/SS/nodemon3.png)
   
-## Testing
+## 💻 Testing
 To perform CRUD operations using Postman:
 - GET Request
   ![2.1](https://github.com/sylxer/UTS_5027221019_Sylvia-Febrianti/blob/main/SS/get.png)
