@@ -1,11 +1,9 @@
-# ETS Integrasi Sistem 
+# 🎮 Mobile Legend Hero Management System
+A simple website to perform CRUD operations on Mobile Legends heroes.
 
 | Nama | NRP |
 | ----------- | ----------- |
 | Sylvia Febrianti | 5027221019 |
-
-## 🎮 Mobile Legend Hero Management System
-A simple website to perform CRUD operations on Mobile Legends heroes.
 
 ## 📋 Project requirements
 - Have Create, Read, Update, Delete data features. ✔️
